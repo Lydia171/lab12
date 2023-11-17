@@ -118,7 +118,8 @@ public class FamilyTree
 		fr.close();
 	}
 	
-	
+
+
 	//
 	// Line format is "parent:child1,child2 ..."
 	// Throws TreeException if line is illegal.
